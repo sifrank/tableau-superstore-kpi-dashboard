@@ -20,7 +20,8 @@ The dashboard is published on Tableau Public so viewers can interact with the re
 
 ## Dashboard Preview
 
-A screenshot preview will be added here.
+<img width="1002" height="584" alt="image" src="https://github.com/user-attachments/assets/48a3730e-facd-4c0d-86ca-5975d471fb32" />
+
 
 ## Notes
 
